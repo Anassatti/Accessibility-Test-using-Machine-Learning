@@ -2,4 +2,5 @@
 This will my future and next project, which is building a automation tool conducting accessibilty test and generate details report for any website against accessibilty guidelines, which mentioned in web content accessibility guidelines(WCAG) 2.1)) that comes under W3C(https://www.w3.org/TR/WCAG21/)
 
 **Indroduction**
+
 Leaving no one behind by 2030 is the principal part of the United Nations sustainable development goals(SDG), which talked about the right of persons with disabilities in everything, and the information technology sector has no exception.Therefore, when we design and implement any website we should follow and implement W3C accessibility guidelines to guarantee their right. As one who works in the QA field for more than 12 years, I can say it is a very tedious task to test the website against accessibility rules and prepare a report for the developers containing the issue they should fix.So, why do not have a smart automation solution, which can run with one click against any website and detect accessibility issues not only with simple rules but also color contrast? The tool will generate a clear report supported with screenshots.
