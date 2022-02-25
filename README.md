@@ -1,5 +1,5 @@
 # Accessibility-Test-using-Machine-Learning
-this will my future and next project, which is building an automation tool conducting accessibility test and generating details reports for any website against accessibility guidelines, which mentioned in web content accessibility guidelines(WCAG) 2.1)) that comes under W3C(https://www.w3.org/TR/WCAG21/)
+This repo will be my future and next project, which is building an automation tool conducting accessibility tests and generating details reports for any website against accessibility guidelines, which mentioned in web content accessibility guidelines(WCAG) 2.1)) that comes under W3C(https://www.w3.org/TR/WCAG21/)
 
 **Indroduction**
 
